@@ -1,4 +1,3 @@
-````md
 # Add-on de Ajustes de Minecraft para Pterodactyl
 
 [🇬🇧 English](README.md) | 🇪🇸 Español
