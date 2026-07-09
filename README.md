@@ -1,5 +1,7 @@
 # Minecraft Settings Tab Add-on for Pterodactyl
 
+🇬🇧 English | [🇪🇸 Español](README.es.md)
+
 > **Created by Ventus2033**
 
 Easily add a **Minecraft Settings** tab to your Pterodactyl panel, allowing you to manage your Minecraft server properties from a dedicated interface without affecting your existing panel modifications.
